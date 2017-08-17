@@ -6,6 +6,6 @@ function BasicCard(front, back) {
 	else {
 		return new BasicCard(front, back);
 	}
-}
+};
 
 module.exports = BasicCard;
